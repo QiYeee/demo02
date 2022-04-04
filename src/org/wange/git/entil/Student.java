@@ -2,6 +2,7 @@ package org.wange.git.entil;
 
 public class Student {
 
-    String xingming;
+    String name;
+    String studyNumber;
 
 }
